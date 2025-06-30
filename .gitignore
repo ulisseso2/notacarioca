@@ -1,0 +1,27 @@
+# Certificados e chaves privadas
+certs/*.pfx
+certs/*.pem
+*.key
+*.crt
+
+# Arquivos XML gerados e assinados
+signed/
+xmls/
+
+# Arquivos temporários e de cache
+*.pyc
+__pycache__/
+*.log
+
+# Ambiente virtual
+venv/
+.env
+.env.*
+
+# IDEs
+.vscode/
+.idea/
+
+# Sistemas operacionais
+.DS_Store
+Thumbs.db

@@ -1,0 +1,13 @@
+certifi==2025.6.15
+cffi==1.17.1
+charset-normalizer==3.4.2
+cryptography==45.0.4
+idna==3.10
+lxml==5.4.0
+pycparser==2.22
+pyOpenSSL==25.1.0
+python-dotenv==1.1.1
+requests==2.31.0
+signxml @ git+https://github.com/XML-Security/signxml.git@f956538bb1d094bfe206fa9986b4ca3de8a71f66
+typing_extensions==4.14.0
+urllib3==2.5.0
